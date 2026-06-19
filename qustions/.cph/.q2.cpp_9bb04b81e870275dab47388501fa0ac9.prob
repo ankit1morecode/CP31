@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"c:\\Users\\Ankit kumar\\Desktop\\codeforces\\qustions\\q2.cpp","tests":[{"id":1775846615124,"input":"3\n4\n1 4 2 3\n1\n100\n2\n6 7\n","output":"1\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ankit kumar\\Desktop\\codeforces\\qustions\\q2.cpp","group":"local","local":true}

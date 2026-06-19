@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"c:\\Users\\Ankit kumar\\Desktop\\codeforces\\qustions\\q1.cpp","tests":[{"id":1775630915204,"input":"3\n1 1\n1\n2 0\n1 2\n2 1000\n1 2\n","output":"YES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ankit kumar\\Desktop\\codeforces\\qustions\\q1.cpp","group":"local","local":true}
